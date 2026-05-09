@@ -14,4 +14,4 @@ Testing SCI UART on EK-RA8M1.
 
 UART output verified on oscilloscope.
 
-![UART_LOG1](images/DSC_0153.jpg)
+![UART_LOG1](images/DSC_0153.JPG)
