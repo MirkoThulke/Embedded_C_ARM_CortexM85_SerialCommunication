@@ -1,0 +1,66 @@
+# ==========================
+# FIRMWARE: RA8M1 / e2studio / FSP
+# ==========================
+
+# Eclipse / e2studio project files
+firmware/**/.settings/
+firmware/**/.project
+firmware/**/.cproject
+
+# Build folders
+firmware/**/Debug/
+firmware/**/Release/
+
+# Generated FSP files
+firmware/**/fsp/.metadata/
+firmware/**/fsp/hal_entry.c
+firmware/**/fsp/hal_entry.h
+firmware/**/fsp/hal_data.c
+firmware/**/fsp/hal_data.h
+firmware/**/fsp/framework/
+firmware/**/fsp/target/
+firmware/**/fsp/r_cg_*.c
+firmware/**/fsp/r_cg_*.h
+
+# Object / temp / binary files
+firmware/**/*.o
+firmware/**/*.elf
+firmware/**/*.map
+firmware/**/*.lst
+firmware/**/*.dep
+firmware/**/*.d
+firmware/**/*.bin
+firmware/**/*.axf
+firmware/**/*.hex
+
+# Backup / swap / logs
+firmware/**/*~
+firmware/**/*.swp
+firmware/**/*.bak
+firmware/**/*.tmp
+firmware/**/*.log
+
+# ==========================
+# GUI: Browser / Web Files
+# ==========================
+
+# Node / Live Server (optional temp files)
+gui/node_modules/
+gui/.vscode/
+gui/.DS_Store
+
+# Browser temp / editor files
+gui/*~
+gui/*.swp
+gui/*.bak
+gui/*.tmp
+
+# Compiled JS (if using bundler)
+gui/dist/
+gui/build/
+
+# ==========================
+# Global OS / IDE stuff
+# ==========================
+*.DS_Store
+Thumbs.db
