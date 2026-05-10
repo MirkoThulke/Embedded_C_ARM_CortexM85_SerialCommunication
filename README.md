@@ -17,11 +17,11 @@ Current experiments:
 - [ARCHITECTURE](docs/setup.md)
 
 
-![Board setup](images/DSC_0140.JPG)
+![Board setup](docs/images/DSC_0140.JPG)
 
-![Board setup](images/DSC_0147.JPG)
+![Board setup](docs/images/DSC_0147.JPG)
 
-![Board setup](images/DSC_0148.JPG)
+![Board setup](docs/images/DSC_0148.JPG)
 
 
-![UART_LOG1](images/DSC_0153.JPG)
+![UART_LOG1](docs/images/DSC_0153.JPG)
