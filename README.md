@@ -1,14 +1,16 @@
 # Embedded_C_ARM_CortexM85_SerialCommunication
 
-https://www.renesas.com/en/products/ra8m1?srsltid=AfmBOoqwT7cA45pEJYyxaIbhjdYrYZaSSPZc0DjhwPsNxkRBCri_Qg8A
 
 ## RA8M1 Learning Lab
 
 Personal learning project using the Renesas EK-RA8M1 board.
 
 Microcontroller :
-480MHz Arm Cortex-M85 Based Microcontroller with Helium and TrustZone
-https://www.renesas.com/en/products/ra8m1?srsltid=AfmBOoqwT7cA45pEJYyxaIbhjdYrYZaSSPZc0DjhwPsNxkRBCri_Qg8A
+- Renesas Electronics Microcontroler Arm® Cortex®-M85 RA8M1
+
+Dvelopment board :
+- Evaluation Kit for RA8M1 Microcontroller Group EK-RA8M1
+
 
 
 Current experiments:
